@@ -1,0 +1,3 @@
+Game.py is a game based on the old snake game that came with old cellphones, back in the day. 
+It a practice and I wanted to share it. You must have the pygame library to play it. 
+Enjoy!
